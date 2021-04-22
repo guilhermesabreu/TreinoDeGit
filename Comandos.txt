@@ -1,3 +1,4 @@
+Branch1 Aqui
 *Criando ambiente git: git init
 *Exibir status atual: git status
 *Adcionar arquivos à stage área: git add . ou git add nome_arquivo
@@ -9,3 +10,4 @@
 *Unir branch a master: git merge nome_da_branch
 *Desfaz alterações em arquivos: git checkout nome_arquivo
 *Listar histórico de commits: git log
+*Exibe e atualiza criação de branchs: git branch
