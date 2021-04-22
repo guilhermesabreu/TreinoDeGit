@@ -1,0 +1,11 @@
+*Criando ambiente git: git init
+*Exibir status atual: git status
+*Adcionar arquivos à stage área: git add . ou git add nome_arquivo
+*Comittar arquivo(s): git commit -m "descrição"
+*Enviar à master: git push -u origin master
+*Criar branch: git checkout -b nome_da_branch
+*Entrar na branch: git checkout nome_da_branch
+*Remove uma branch: git branch -d
+*Unir branch a master: git merge nome_da_branch
+*Desfaz alterações em arquivos: git checkout nome_arquivo
+*Listar histórico de commits: git log
