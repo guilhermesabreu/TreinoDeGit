@@ -1,4 +1,5 @@
 Branch1 Aqui
+
 *Criando ambiente git: git init
 *Exibir status atual: git status
 *Adcionar arquivos à stage área: git add . ou git add nome_arquivo
